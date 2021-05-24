@@ -1,0 +1,1 @@
+# VSCODE-Configuracoes-do-WINDOWS-7
