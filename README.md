@@ -11,11 +11,11 @@ Titulo do email ta "PROGRAMA PRO VSCODE FUNCIONAR"
 
 **Lista dos emails:**
 
-* Os emails foram enviados para: *
-__glaucoacassioc@gmail.com__
-__glauco_acassio@hotmail.com__
-__glauco.github@gmail.com__
-__kakaita@gmail.com__
+* Os emails foram enviados para: 
+- __glaucoacassioc@gmail.com__
+- __glauco_acassio@hotmail.com__
+- __glauco.github@gmail.com__
+- __kakaita@gmail.com__
 
 4. Os arquivos que estavam funcionando são esses ai que estão nesse repositório. Sugiro que os use!!
 5. Data da modificação, 24 de maio de 2021 às 11:13. 
